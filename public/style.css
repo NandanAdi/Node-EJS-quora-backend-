@@ -1,0 +1,18 @@
+h1{
+    color: maroon;
+
+}
+.post{
+    background-color: blanchedalmond;
+}
+.user{
+    font-style: italic;
+}
+
+#badge{
+    background-color: #b3b1b1;
+    color: rgb(0, 0, 0);
+    border: 2px black solid;
+    box-shadow: 2px 2px 2px;
+    border-radius: 5px;
+}
